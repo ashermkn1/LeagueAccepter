@@ -1,2 +1,2 @@
-# LeagueAccepter
-Auto queue accepter for League of Legends
+# LeagueAcceptor
+Auto queue acceptor for League of Legends using Riot's LCU API
